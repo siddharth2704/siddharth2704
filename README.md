@@ -28,7 +28,7 @@
 | Legal IDP Pipeline | End-to-end Intelligent Document Processing for legal docs | LoRA, vLLM, AWS Fargate, FastAPI | 90% accuracy · 10,000+ docs |
 | BAANI — Punjabi Vocoder | Neural vocoder for Punjabi TTS (APSIPA ASC 2025) | HiFi-GAN, PyTorch | MOS 4.58 · 75.6% lower MCD |
 | Vaachika — Marathi Vocoder | GAN-based Marathi TTS (IALP 2025) | GAN, PyTorch | MOS 4.65 · 56x faster inference |
-| Image Generation Pipeline | Generative image pipeline using ComfyUI | ComfyUI, Stable Diffusion, Python | End-to-end diffusion workflow |
+| NeuroNote — RAG System | Multimodal biology education AI: Text-to-Image retrieval & Image-to-Text explanation | CLIP, FAISS, LangChain, Ollama, Streamlit | Bidirectional text↔image understanding |
 
 ---
 
